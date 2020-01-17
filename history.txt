@@ -1,0 +1,484 @@
+    1  sudo apt install cmatrix
+    2  sudo snap install intellij-idea-community --classic
+    3  sudo snap install intellij-idea-community 
+    4  sudo snap install intellij-idea-community --classic
+    5  tar -xzf idea-2019.3.1.tar.gz
+    6  idea idea-2019.3.1.tar.gz 
+    7  ls
+    8  pwd
+    9  wget https://download.jetbrains.com/idea/ideaIC-2019.1-jbr11.tar.gz
+   10  tar -zxvf ideaIC-*.tar.gz
+   11  cd idea-*/bin/
+   12  sh idea.sh
+   13  LS
+   14  ls
+   15  pwd
+   16  mkdir workspace
+   17  cd workspace
+   18  ls
+   19  touch README.md 
+   20  copy --r CHANGELOG.md
+   21  cp README.md CHANGELOG.md
+   22  cd workspace
+   23  touch exercise.md
+   24  mv exercise.dm /tmp
+   25  mv exercise.md /tmp
+   26  cd ..
+   27  cd /tmp
+   28  ls
+   29  cd ..
+   30  cd workspace
+   31  ls
+   32  cd ~
+   33  cd workspace
+   34  cd ..
+   35  cd /tmp
+   36  rm exercise.md
+   37  cd workspace
+   38  cd ~
+   39  cd workspace
+   40  touch umuzi.md 
+   41  touch recruits.md
+   42  touch cohort.md
+   43  rm exercise.md /tmp
+   44  clear
+   45  ls
+   46  touch exercise.md
+   47  ls
+   48  mv exercise.md /tmp
+   49  cd ..
+   50  cd /tmp
+   51  ls
+   52  cd ~
+   53  cd workspace
+   54  rm /temp/exercise.md
+   55  rm /tmp/exercise.md
+   56  cd ..
+   57  cd /tmp
+   58  ls
+   59  cd ~
+   60  clear
+   61  cd workspace
+   62  ls
+   63  encho "Boitumelo" > umuzi.md
+   64  echo "Boitumelo" > umuzi.md
+   65  echo "smart and beautiful" > recruits.md
+   66  echo "Brave" > cohort.md
+   67  cat amuzi.md
+   68  cat umuzi.md
+   69  cat recruits.md
+   70  cat cohort.md
+   71  clear
+   72  cat umuzi.md recruits.md cohort.md
+   73  touch summary.md
+   74  cat umuzi.md recruits.md cohort.md > summary.md
+   75  cat summary.md
+   76  echo "THE END" >> summary.md
+   77  cat summary.md
+   78  CLEAR
+   79  clear
+   80  cd ..
+   81  locate umuzi.md
+   82  locate umuzi
+   83  clear
+   84  cd workspace
+   85  locate umuzi
+   86  clear
+   87  locate "umuzi" -n 5
+   88  locate "umuzi" -n 10
+   89  clear
+   90  locate umuzi
+   91  touch search_result.md
+   92  locate umuzi > search_result.md
+   93  cat search_result.md
+   94  clear
+   95  cd ..
+   96  cd documentsclear
+   97  clear
+   98  cd Documents
+   99  touch pad.md
+  100  cd ..
+  101  cd Desktop
+  102  mkdir work
+  103  cp -pad.md /Documents/. /work/
+  104  cp ~/Documents/pad.md pad_copy.md
+  105  ls
+  106  cd doucuments
+  107  cd Documents
+  108  touch search_results.md
+  109  locate umuzi
+  110  locate umuzi > search_results.md
+  111  cat search_results.md
+  112  clear
+  113  cd ..
+  114  clear
+  115  cd workspace
+  116  locate updatedb
+  117  clear
+  118  cd ..
+  119  clear
+  120  cd desktop
+  121  clear
+  122  cd document
+  123  clear
+  124  cd Documents
+  125  cd ..
+  126  cd Desktop
+  127  locate updatedb
+  128  cd -
+  129  locate pad_copy.md
+  130  clear
+  131  workspace
+  132  clear
+  133  cd workspace 
+  134  find .pdf
+  135  locate .pdf
+  136  find -name *.pdf
+  137  find ~ -name \*.pdf
+  138  find -iname '*.pdf'
+  139  ind . -name '.pdf'
+  140  clear
+  141  locate *.pdf
+  142  cd workspace
+  143  touch pdf_results.md
+  144  locate .pdf >> pdf_results.md
+  145  ls pdf_results.md
+  146  cat pdf_reaults.md
+  147  cat pdf_results.md
+  148  clear
+  149  find . -maxdepth 1 -newermt "2020-01-14"
+  150  find . -maxdepth 1 -newermt "2020-01-15"
+  151  clear
+  152  nano [option] /path/to/filename
+  153  nano my_bio.md
+  154  mkdir my_files.md
+  155  mv my_bio.md >> my_files.md
+  156  rm my_files.md
+  157  clear
+  158  mkdir my_files
+  159  mv my_bio.md my_files
+  160  cd my_files
+  161  ls
+  162  cd workspace
+  163  rm umuzi.md
+  164  ls
+  165  rm recruits.md
+  166  rm cohort.md
+  167  ls
+  168  rm pdf_results.md
+  169  rm summary.md
+  170  rm search_result.md
+  171  cd workspace
+  172  ls
+  173  clear
+  174  touch umuzi.md
+  175  touch recruits.md
+  176  touch cohort.md
+  177  echo "Boitumelo" > umuzi.md
+  178  echo "Smart and beautiful" > recruits.md
+  179  echo "Brave and Bold" > cohort.md
+  180  cat umuzi.md recruits.md cohort.md
+  181  cd documents
+  182  cd Ddocuments
+  183  clear
+  184  cd Documents
+  185  touch pad.md
+  186  cd ..
+  187  cd Desktop
+  188  mkdir Work
+  189  cp pad.md pad_copy.md
+  190  cp ~/Documents/pad.md pad_copy.md
+  191  locate updatedb
+  192  cd -
+  193  locate pad_copy.md
+  194  find -m '*pdf'
+  195  find -m '*.pdf'
+  196  find -iname '*.pdf'
+  197  find ./Downloads -name "*.pdf" -exec cp {} ~/Desktop \;
+  198  find . -maxdepth 1 -newermt "2020-01-16"
+  199  nano my_bio.md
+  200  rm my_files
+  201  clear
+  202  mkdir my_files
+  203  rm ~/my_files
+  204  mv my_bio.md my_files
+  205  cd my_files
+  206  ls
+  207  cd Linux_Challenges
+  208  cd Linux-Challenges
+  209  ls
+  210  git add *
+  211  git status
+  212  git commit -m "Linux_Tasks"
+  213  git config --global user.email "you@example.com"
+  214  git config --global user.email "boitumelomsiza20@gmail.com" 
+  215  git config --global user.name "Boitumelo-Msiza"
+  216  git commit -m "Linux_Tasks"
+  217  git push
+  218  clear
+  219  cd workspace
+  220  search-result.md
+  221  touch search_result.md
+  222  locate umuzi > search_result.md
+  223  cd ..
+  224  cd Documents
+  225  mkdir task5
+  226  touch pad.md > task5
+  227  touch pad.md  task5
+  228  ls task5
+  229  cd..
+  230  cd ..
+  231  cd task5
+  232  clear
+  233  cd worspace
+  234  cd workspace
+  235  ls
+  236  cat > umuzi.md
+  237  cat umuzi.md
+  238  cat > recruits.md
+  239  sudo apt install git
+  240  cd workspace
+  241  cat > umuzi.md
+  242  cat umuzi.md
+  243  cat > recruits.md
+  244  cat > cohort.md
+  245  cat > umuzi.md recruits.md cohort.md
+  246  cat  umuzi.md recruits.md cohort.md
+  247  clear
+  248  touch summary.md
+  249  cat umuzi.md recruits.md cohort.md > summary.md
+  250  ls summary.md
+  251  cat summary.md
+  252  cat umuzi.md
+  253  cat cohort.md
+  254  cat recruits.md
+  255  cat >> summary.md
+  256  cat summary.md
+  257  locate umuzi
+  258  git clone https://github.com/Boitumelo-Msiza/Linux-Challenges.git
+  259  mkdir git-basic-exercises
+  260  cd git-basic-exercise
+  261  cd git-basic-exercises
+  262  ls -a
+  263  git init
+  264  ls -a
+  265  git status
+  266  touch README.md
+  267  ls -a
+  268  status
+  269  git status
+  270  git log
+  271  git add README.md
+  272  git status
+  273  git rm --cached <README.md>...
+  274  git status
+  275  git rm --cached <README.md>
+  276  git rm --cached README.md
+  277  git status
+  278  git rm --cached ...
+  279  gid add README.md
+  280  git add README.md
+  281  git commit -m "initial commit"
+  282  git log
+  283  clear
+  284  nano README.md
+  285  cat README.md
+  286  git status
+  287  git commit -m "second commit"
+  288  git README.md
+  289  git add README.md
+  290  git commit -m "second commit"
+  291  git status
+  292  git add README.md
+  293  git statu
+  294  git status
+  295  nano README.md
+  296  cat README.md
+  297  git add README.md
+  298  git status
+  299  git commit -m "Third commit"
+  300  git log
+  301  clear
+  302  git checkout 35330fce863bb30a84349f73420defa2f7ed5139
+  303  cat README.md
+  304  clear
+  305  git cat 35330fce863bb30a84349f73420defa2f7ed5139
+  306  clear]\
+  307  cd git-basic-exercises
+  308  git checkout 35330fce863bb30a84349f73420defa2f7ed5139
+  309  git checkout master
+  310  git checkout 35330fce863bb30a84349f73420defa2f7ed5139
+  311  git checkout master
+  312  clear
+  313  git checkout 35330fce863bb30a84349f73420defa2f7ed5139
+  314  clear
+  315  cat README.md
+  316  git checkout master
+  317  clear
+  318  cat README.md
+  319  clear
+  320  git branch
+  321  git branch milkshake-flavours
+  322  git branch
+  323  git branch -a
+  324  git checkout milkshake-flavours
+  325  nano milkshakes.md
+  326  git status
+  327  git commit -m milkshakes.md
+  328  clear
+  329  git add milkshakes.md
+  330  git commit -m milkshakes.md
+  331  git commit -m "added initial flavours"
+  332  git log
+  333  git reset HEAD milkshakes.md
+  334  git log
+  335  git reset --hard HEAD~1
+  336  git log
+  337  git branch
+  338  git commit "added initial flavours"
+  339  clear
+  340  git commit -m "added initial flavours"
+  341  git status
+  342  cat milkshake-flavours
+  343  git add milkshakes.md
+  344  ls -a
+  345  git checkout milkshake-flavours
+  346  ls -a
+  347  ls
+  348  clear
+  349  git checkout master
+  350  git branch
+  351  checkout milkshake-flavours
+  352  git checkout milkshake-flavours
+  353  nano milkshakes.md
+  354  git status
+  355  git commit -m "added initial flavours"
+  356  add git milkshakes.md
+  357  clear
+  358  git add milkshakes.md
+  359  git status
+  360  git commit -m "added initial flavours"
+  361  git log
+  362  clear
+  363  branch
+  364  checkout master
+  365  git branch
+  366  git checkout master
+  367  git branch history
+  368  history > history.txt
+  369  git add history.txt
+  370  git commit -m "added history"
+  371  git log
+  372  clear
+  373  git checkout milkshake 
+  374  git checkout milkshake-flavours
+  375  git log
+  376  clear
+  377  nano README.md
+  378  git add README.md
+  379  git commit -m "random readme changes"
+  380  git checkout history
+  381  cat README.md
+  382  rm README.md echo "booya" > README.md
+  383  rm README.md echo "booya" > README.md 
+  384  echo "booya" > README.md
+  385  clear
+  386  git add README.md 
+  387  git commit -m 'Rewrote readme"
+  388  cd git-basic-exercises
+  389  git commit -m "Rewrote readme"
+  390  git checkout master
+  391  git log
+  392  clear
+  393  git checkout master
+  394  ls
+  395  git log
+  396  clear
+  397  git branch
+  398  git checkout master
+  399  git log
+  400  git reset --hard HEAD~1
+  401  CLEAR
+  402  clear
+  403  git log
+  404  ls
+  405  clear
+  406  git checkout milkshake-flavours
+  407  ls
+  408  git log
+  409  git reset --hard HEAD~1
+  410  git log
+  411  git checkout history
+  412  ls
+  413  git log
+  414  git branch
+  415  history > history.txt
+  416  git add history.txt
+  417  git commit -m "added history"
+  418  git log
+  419  git checkout master
+  420  clear
+  421  git checkout master
+  422  git checkout milkshake-flavours
+  423  git log
+  424  clear
+  425  git checkout master
+  426  git merge milkshake-flavours
+  427  ls
+  428  git log
+  429  clear
+  430  git checkout master
+  431  clear
+  432  git merge history
+  433  cd git-basic-exercises
+  434  git merge history
+  435  clear
+  436  git checkout master
+  437  ls
+  438  git log
+  439  clear
+  440  git checkout history
+  441  ls
+  442  git log
+  443  clear
+  444  git checkout master
+  445  git merge history0.
+  446  clear
+  447  git merge history
+  448  cd git-basic-exercises
+  449  ls
+  450  git log
+  451  clear
+  452  git branch
+  453  git merge history
+  454  git checkout history
+  455  git add history.txt
+  456  git commit -m "added history"
+  457  git status
+  458  cd git-basic exercises
+  459  clear
+  460  cd git-basic exercises
+  461  clear
+  462  cd git-basic-exercises
+  463  git checkout master
+  464  git ls
+  465  ls
+  466  git branch
+  467  git branch -d history
+  468  git branch -D history 
+  469  git branch
+  470  git log
+  471  clear
+  472  git checkout master
+  473  clear
+  474  git branch history
+  475  git log 
+  476  clear
+  477  git checkout history
+  478  git log
+  479  clear
+  480  git checkout master
+  481  ls
+  482  git checkout history
+  483  clear
+  484  history > history.txt
